@@ -9,6 +9,8 @@ import me.dio.simulator.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
 
+
+
     private ActivityMainBinding binding;
 
     @Override
