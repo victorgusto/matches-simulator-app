@@ -6,3 +6,5 @@ App Android Simulador de Partidas. Este repositório foi organizado em algumas b
     - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/victorgusto/matches-simulator-app/tree/release/componentes-layouts-ui-ux-em-apps-android)
 3. Java e Kotlin Juntos!? Construindo Apps Android
     - [release/java-e-kotlin-juntos-construindo-apps-android](https://github.com/victorgusto/matches-simulator-app/tree/release/java-e-kotlin-juntos-construindo-apps-android)
+4. Explorando o Firebase Para Apps Android Resiliente
+    - [release/explorando-o-firebase-para-apps-android-resilientes](https://github.com/victorgusto/matches-simulator-app/tree/release/explorando-o-firebase-para-apps-android-resilientes)
